@@ -1,0 +1,19 @@
+body{
+	width: 960px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	font-size: 25px;
+}
+#p1{
+	font-variant-ligatures: right;
+	font-size: 25px;
+}
+#saber{
+	float: right;
+}
+#d2{
+	font-size: 25px;
+}
